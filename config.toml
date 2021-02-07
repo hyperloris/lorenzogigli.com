@@ -2,3 +2,20 @@ baseURL = "https://lorenzogigli.com/"
 languageCode = "en-us"
 title = "Lorenzo Gigli"
 theme = "hello-friend-ng"
+
+# Social icons
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/hyperloris"
+
+[[params.social]]
+  name = "researchgate"
+  url  = "https://researchgate.net/profile/Lorenzo_Gigli2"
+
+[[params.social]]
+  name = "linkedin"
+  url  = "https://linkedin.com/in/lorenzo-gigli-9047945a"
+
+[[params.social]]
+  name = "instagram"
+  url  = "https://instagram.com/hyperloris"
